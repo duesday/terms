@@ -2,7 +2,7 @@
 
 ## Terms and Conditions
 
-Version 1.1 (01 June 2019)
+Version 1.2 (31 October 2019)
 ### What is Duesday 🤔
 
 Duesday is the brand name of CFT Group, a limited company registered in sunny Cornwall.
@@ -82,26 +82,25 @@ We can close your account by giving you at least two months' notice. We may clos
 
 ### What happens if I can't pay my Direct Debits?
 
-We know that there are times when people fall behind with payments, for a variety of reasons.
+We know that there are times when people fall behind with payments, for a variety of reasons. Duesday is a payment service, to pay your regular bills, but we don't give credit. If you are falling behind with your Direct Debits, we can't pay your bills for you.
 
-If you are struggling to pay your Duesday Direct Debits, we want you to speak to us. We will always be able to help, and we don't want to add to your worry.
+If you are struggling to pay your Direct Debits, we want you to speak to us. We will always be able to help, and we don't want to add to your worry.
 
 And we know that people can be in debt with lots of other organisations or individuals. We recognise that this can be a difficult time and we can support you.
 
-If you are accumulating debt with us, this is how you will be contacted:
+If you are falling behind with your Direct Debits, we can't pay your bills for you. When this happens here is how you will be contacted:
 #### Text message contact 📩
 
-First we will send you a text message or an in-app notification to let you know that we need to take a catch up payment to bring your account up to date.
+First we will send you a text message or an in-app notification to let you know that we need to take a catch up payment so we can settle the unpaid bill for you.
 #### Email contact 📩
 
-If you haven't taken action to address your debt we will follow up with an email.
-We'll then send another text message and email asking you to contact us as soon as possible.
+If you haven't taken action to address your outstanding payment, we will follow up with an email. We'll then send another text message and email asking you to contact us as soon as possible.
 
 Let us know if you're having problems making payment - get in touch straight away.
 
-If after a period of time our first communication with you about your account we haven't heard back, you'll get a text and email asking to arrange a date and time for us to call you and discuss the best options.
+If after a period of time our first communication with you about your outstanding payment we haven't heard back, you'll get a text and email asking to arrange a date and time for us to call you and discuss the best options.
 #### Reminder to get in touch 📆
 
-A final reminder will be sent by email and text message if after several weeks we have not heard back from you. At this stage if you have not contacted us we will have to take further action.
+A final reminder will be sent by email and text message if after several weeks we have not heard back from you. Throughout this time, we are unable to pay any bills for you.
 
 If you are falling behind with payments and want to talk about managing your account please email us on help@duesday.com
