@@ -2,7 +2,7 @@
 
 ## Terms and Conditions
 
-Version 1.2 (31 October 2019)
+Version 1.3 (3 December 2019)
 ### What is Duesday 🤔
 
 Duesday is a limited company registered in sunny Cornwall.
