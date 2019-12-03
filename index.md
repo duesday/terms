@@ -5,9 +5,9 @@
 Version 1.2 (31 October 2019)
 ### What is Duesday 🤔
 
-Duesday is the brand name of CFT Group, a limited company registered in sunny Cornwall.
+Duesday is a limited company registered in sunny Cornwall.
 
-The legal terms in this document (English law applies) are between you and CFT Group Ltd (Duesday/us/we) and you agree to them by using the Duesday app.
+The legal terms in this document (English law applies) are between you and Duesday Ltd (Duesday/us/we) and you agree to them by using the Duesday app.
 
 You should read this document along with our Privacy Policy.
 ### How to contact us 💬
@@ -34,7 +34,7 @@ For some bills, but not all, you can decide to pay before the due date and get r
 
 You receive one Duro for every £1 and every day you pay your duro-enabled bill before the due date of the bill. For example: if you pay your bill of £50 ten days early, you receive 500 Duros.
 
-Duesday Duros have no cash value and are not deemed to be E-money or any other equivalent monetary value. Your Duesday Duros cannot be used to withdraw cash or otherwise be redeemed for cash and they are awarded to you at the discretion of CFT Group. 
+Duesday Duros have no cash value and are not deemed to be E-money or any other equivalent monetary value. Your Duesday Duros cannot be used to withdraw cash or otherwise be redeemed for cash and they are awarded to you at the discretion of Duesday. 
 
 You can use the Duesday Duros you have received to delay the due date of upcoming bills. For every £1 of your bill you can use a Duro to delay the due date by one day. For example, spending 500 Duros allows you to delay the due date of a £100 bill by five days.
 
