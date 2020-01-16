@@ -48,6 +48,7 @@ However, you won't be able to claim losses if:
 - you gave us incorrect instructions (but we'll do our best to help you recover your money)
 - we took actions under conditions outside of our control
 - they are not the direct and predictable result of our actions
+
 ### How to make a complaint 😔
 
 If you have a complaint, please contact us and we will do our best to fix the problem  by emailing: support@duesday.com
